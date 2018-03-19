@@ -1,9 +1,8 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: People
+permalink: /people/
 ---
-
 
 
 Under construction =\|8-)
