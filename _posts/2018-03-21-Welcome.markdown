@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Welcome to Magnus Research"
+date:   2018-03-21 11:45:38 +0100
+categories: updates
+---
+
+Welcome to the website of **Magnus Research** - a short overview of the research performed by Carsten Magnus and his group. We will keep you updated with the latest news on the exciting world of mathematical models shedding light on antibody-based virus neutralisation.
