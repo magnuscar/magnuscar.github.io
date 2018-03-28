@@ -17,7 +17,7 @@ baseurl: ""
 title: Magnus Research
 
 # Short description of your site
-description: Disover how antibodies neutralise viruses!
+description: Disover how antibodies neutralise viruses.
 
 # --- Navigation bar options --- #
 
@@ -26,7 +26,7 @@ navbar-links:
   Research: "research"
   People: "people"
   Publications: "publications"
-  Seminars: 
+  Seminars:
     - Overview: "seminars/overview"
     - Methods & Beers: "seminars/methodsbeers"
     - Taming the BEAST: "https://www.bsse.ethz.ch/cevo/taming-the-beast.html"
@@ -46,8 +46,8 @@ avatar: "/img/MagnusResearch-icon.png"
 
 navbar-col: "#404040"  #"#F5F5F5"
 navbar-text-col: "#D3D3D3" #"#404040"
-navbar-children-col: "#F5F5F5"
-page-col: "#F0FFFF" #"#F0FFFF"
+navbar-children-col: "#848484" #"#F5F5F5"
+page-col: "#FFFFFF" #"#F0FFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
 footer-col: "#404040"  # "#F5F5F5"
