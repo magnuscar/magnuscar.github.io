@@ -29,9 +29,14 @@ subtitle: Or how can mathematical models be used to study antibodies and viruses
 A protective anti-HIV vaccine is the ultimate goal of HIV research, because such a vaccine could lead to eradication of HIV. However, no HIV vaccine tested until now has been successful in mounting a protective immune response (e.g. summarised in [Klein et al. 2013][link NoVacc]). The vaccine research community uses so called _broadly neutralising antibodies_ as blueprints for vaccine design ([Burton et al. 2012][link blueprint]). These antibodies arise in a small percentage of HIV-infected individuals after a long period of virus-antibody coevolution. We develop methods to study virus-antibody coevolution with the goal to help rationally design sequential vaccines. Please [contact us][link contact] if you want to learn how we envision tackling this problem or if you want to fund us for this promising line of research.
 
 
+### Further interests
+I am also interested in the spread of diseases and specifically in how viral sequence data can be used to learn about outbreak dynamics. We recently studied the **Zika virus** epidemics in the Americas and found that a certain level of information must be included in sequence data to reliably estimate parameters. More information can be found [here][link Zika].
+
+
 [link NoVacc]: https://www.ncbi.nlm.nih.gov/pubmed/24031012
 [link blueprint]: https://www.ncbi.nlm.nih.gov/pubmed/23084910
 [link contact]: /contact/
 [link probInf]: http://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006313
 [link V1V2Theo]: https://www.sciencedirect.com/science/article/pii/S0022175913002421
 [link MSW]: https://www.sciencedirect.com/science/article/pii/S0168170215300885
+[link Zika]: https://academic.oup.com/ve/article/4/1/vex044/4829709
