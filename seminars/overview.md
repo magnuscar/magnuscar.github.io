@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Seminars Overview
+title: Seminar Overview
 subtitle: To promote science, it is important to discuss and exchange ideas.
 ---
 
