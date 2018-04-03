@@ -1,4 +1,8 @@
-# Beautiful Jekyll
+# This webpage
+This webpage is created using the beautiful jekyll theme. Please feel free to fork my version under a [creative common attribute license 4.0](https://creativecommons.org/licenses/by/4.0/). Please see below for more information on the beautiful jekyll theme and its use.
+
+
+## Beautiful Jekyll
 
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/daattali/20)
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
