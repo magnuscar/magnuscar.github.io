@@ -23,9 +23,11 @@ description: Disover how antibodies neutralise viruses.
 
 # List of links in the navigation bar
 navbar-links:
-  Research: "research"
-  People: "people"
-  Publications: "publications"
+  Research:
+    - Research focus: "research/research"
+    - Publications: "research/publications"
+  People: "people/people"
+  Teaching: "teaching/teaching"
   Seminars:
     - Overview: "seminars/overview"
     - Methods & Beers: "seminars/methodsbeers"
