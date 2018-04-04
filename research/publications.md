@@ -4,7 +4,7 @@ title: The Publications
 subtitle: Discover and find out more about all our published work.
 ---
 
-Please also visit my [google scholar page][link scholar] for metrics on our publications. We strongly support open access as well as transparency,  and publish our research open access whenever possible. If you cannot find any of the papers, code, or data, please [contact me][link contact].
+Please also visit Carsten's [google scholar page][link scholar] for metrics on our publications. We strongly support open access as well as transparency,  and publish our research open access whenever possible. If you cannot find any of the papers, code, or data, please [contact me][link contact].
 
 ## Journal Articles and Reviews
 ### 2018
