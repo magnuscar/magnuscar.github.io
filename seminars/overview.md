@@ -12,6 +12,6 @@ subtitle: To promote science, it is important to discuss and exchange ideas.
 
 
 
-[link MandB]: /seminars/methodsbeers/
+[link MandB]: https://magnuscar.github.io/seminars/methodsbeers/
 [link TtB]: https://www.bsse.ethz.ch/cevo/taming-the-beast.html
 [link BEAST2]: http://www.beast2.org/
