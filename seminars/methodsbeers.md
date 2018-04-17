@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Methods and Beers
-subtitle: Bringing together scientist from academia and industry.
+subtitle: Bringing together scientists from academia and industry.
 ---
 
 <img align="left" src="/img/MBlogo.jpg" style="width: 200px;" hspace="15px"/> _Methods & Beers_ series is a meeting of people from institutions in the Basel area with an interest in data analysis methods. We come together, exchange ideas, and have a beer and snack. It is an intentionally informal, participant driven meeting; we believe this gives a good environment for lively discussion and exchange of ideas. We cover fields that are interesting for both academic research and research in industry. You can find the official _Methods & Beers_ homepage [here][link MandB].
