@@ -12,7 +12,7 @@ subtitle: Good research can only be done in a group of talented and motivated pe
 
 ## Master students
 
-**Valerio Tettamanti** studies the visual ecology of Naso brevirostris and Naso vlamingii, two species of the genus unicornfish in the [Sensory Neurobiology Group][link Sensory Biology] the at Queensland Brain Institute, Queensland, Australia with [Fabio Cortesi][link Fabio Cortesi] and [Fanny de Busserolles][link Fanny]. Carsten is happy to learn more about unicornfishes while being Valerio's supervisor at ETH Zurich.
+**Valerio Tettamanti** studies the visual ecology of Naso brevirostris, a fish species belonging to the genus unicornfish in Justin Marshall's [Sensory Neurobiology Group][link Sensory Biology] the at Queensland Brain Institute, Queensland, Australia with [Fabio Cortesi][link Fabio Cortesi] and [Fanny de Busserolles][link Fanny]. Carsten is happy to learn more about unicornfishes while being Valerio's supervisor at ETH Zurich.
 
 
 
