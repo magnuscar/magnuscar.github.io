@@ -23,7 +23,7 @@ Carsten lectures at the ETH Zurich and the University of Zurich in the following
 
 
 ### Master theses and research projects
-Please [contact me][link contact] when you are interested in doing a master thesis or a research project with us. At the moment we do not have open positions for PhD students, but in case you are interested in a PhD, please contact me as well.
+Please [contact us][link contact] when you are interested in doing a master thesis or a research project with us. At the moment we do not have open positions for PhD students, but in case you are interested in a PhD, please contact me as well.
 
 
 

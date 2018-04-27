@@ -6,6 +6,16 @@
 #            site.social-network-links.<key>
 #   icon: Specify a valid fontawesome icon class
 
+researchgate:
+  name: "ResearchGate"
+  baseURL: "https://www.researchgate.net/profile/"
+  icon: "fa-book"
+
+googlescholar:
+  name: "GoogleScholar"
+  baseURL: "https://scholar.google.com/"
+  icon: "fa-google"
+
 facebook:
   name: "Facebook"
   baseURL: "https://www.facebook.com/"
