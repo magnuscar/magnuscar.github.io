@@ -19,4 +19,4 @@ To keep updated about the latest news on the _Methods & Beers_ seminars please s
 [link MBmeetup]: https://www.meetup.com/Basel-Computational-Methods-for-Research-Community-BCMRC/
 [link MBlinkedIn]: https://www.linkedin.com/groups/8609764
 [link MBBSSE]: https://www.bsse.ethz.ch/department/D-BSSE-Initiatives/Basel-Computational-Methods-for-Research-Community.html
-[here][link future events MandB]: https://methods-and-beers.ch/seminar/futureevents/
+[link future events MandB]: https://methods-and-beers.ch/seminar/futureevents/
