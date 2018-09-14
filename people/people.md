@@ -14,7 +14,9 @@ subtitle: Good research can only be done in a group of talented and motivated pe
 
 **Valerio Tettamanti** studies the visual ecology of Naso brevirostris, a fish species belonging to the genus unicornfish in Justin Marshall's [Sensory Neurobiology Group][link Sensory Biology] the at Queensland Brain Institute, Queensland, Australia with [Fabio Cortesi][link Fabio Cortesi] and [Fanny de Busserolles][link Fanny]. Carsten is happy to learn more about unicornfishes while being Valerio's supervisor at ETH Zurich.
 
+**Nikita Janakarajan** continues the studies on the timing of antibody induced mutation evolution in a lab rotation project.
 
+**Gregor Bachmann** studies the potential of Multidimensional Scaling as a visualisation method for HIV/antibody co-evolution.
 
 
 
