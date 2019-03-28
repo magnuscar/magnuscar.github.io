@@ -4,12 +4,11 @@ title: Contact
 permalink: /contact/
 ---
 
-At the moment Carsten is researching as a senior scientist in the [Computational Evolution Group](http://www.bsse.ethz.ch/cevo) :
+At the moment Carsten is researching in the [Institute of Medical Virology](https://www.virology.uzh.ch/en.html) :
 
-Computational Evolution  
-  ETH Zurich, D-BSSE  
-  Mattenstrasse 26  
-  4058 Basel  
+Institute of Medical Virology  
+  Winterthurerstrasse 190  
+  8057 Zurich   
   Switzerland  
 
-Come and see me at our Basel office or write an email to <carsten.magnus@bsse.ethz.ch>.
+Come and see me at my Zurich office or write an email to <magnus.carsten@gmail.com>.

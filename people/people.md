@@ -7,20 +7,17 @@ subtitle: Good research can only be done in a group of talented and motivated pe
 
 ## Dr. Carsten Magnus
 
-<img src="/img/carsten2.jpg" alt="Drawing" style="width: 150px;" hspace="15px" align="left"/>  After having studied mathematics, chemistry, and German literature in Münster, Germany, I transferred to theoretical biology for his PhD. Already then I started working on antibody binding against HIV in [Roland Regoes' group][link Roland]. Multiple aspects of antibodies binding against HIV have been the focus of [my research][link my research] ever since. My PhD was followed by research in [Angela McLean's mathematical biology group][link Oxford]. In [Alexandra Trkola's group][link Alexandra], I had the pleasure to work in direct collaboration with exerperimental virologists. Since September 2015 I have been continuing my research as a senior scientist (Oberassistent) in [Tanja Stadler's group][link Tanja]. I am establishing my own research group at the moment. If you are interested in my research, want to join the group or want to fund me, please [contact me][link contact]. When I am not researching, I am most likely found playing music as I am playing in several orchestras including [ALSO][link also], [AKO][link ako], and [i baroccoli][link Brokkoli].
-
-
-## Master students
-
-**Valerio Tettamanti** studies the visual ecology of Naso brevirostris, a fish species belonging to the genus unicornfish in Justin Marshall's [Sensory Neurobiology Group][link Sensory Biology] the at Queensland Brain Institute, Queensland, Australia with [Fabio Cortesi][link Fabio Cortesi] and [Fanny de Busserolles][link Fanny]. Carsten is happy to learn more about unicornfishes while being Valerio's supervisor at ETH Zurich.
-
-**Nikita Janakarajan** continues the studies on the timing of antibody induced mutation evolution in a lab rotation project.
-
-**Gregor Bachmann** studies the potential of Multidimensional Scaling as a visualisation method for HIV/antibody co-evolution.
-
+<img src="/img/carsten2.jpg" alt="Drawing" style="width: 150px;" hspace="15px" align="left"/>  After having studied mathematics, chemistry, and German literature in Münster, Germany, I transferred to theoretical biology for his PhD. Already then I started working on antibody binding against HIV in [Roland Regoes' group][link Roland]. Multiple aspects of antibodies binding against HIV have been the focus of [my research][link my research] ever since. My PhD was followed by research in [Angela McLean's mathematical biology group][link Oxford]. In [Alexandra Trkola's group][link Alexandra], I had the pleasure to work in direct collaboration with experimental virologists. Since September 2015 I have been continuing my research as a senior scientist (Oberassistent) in [Tanja Stadler's group][link Tanja]. As of March 2019, I joint the Trkola lab again, to continue exciting research on HIV and Influenza.
+When I am not researching, I am most likely found playing music in one of several orchestras including [ALSO][link also], [AKO][link ako], and [i baroccoli][link Brokkoli].
 
 
 ## Alumni
+
+**Valerio Tettamanti** studied the visual ecology of Naso brevirostris, a fish species belonging to the genus unicornfish in Justin Marshall's [Sensory Neurobiology Group][link Sensory Biology] the at Queensland Brain Institute, Queensland, Australia with [Fabio Cortesi][link Fabio Cortesi] and [Fanny de Busserolles][link Fanny]. Carsten was his official supervisor at ETH.
+
+**Nikita Janakarajan** continued the studies on the timing of antibody induced mutation evolution in a lab rotation project.
+
+**Gregor Bachmann** studied the potential of Multidimensional Scaling as a visualisation method for HIV/antibody co-evolution.
 
 **Ziliya Usmanova** studied how one can estimate the timing of antibody induced mutation evolution in her Master thesis. She finished her studies in February 2018 and obtained a Msc in Biology.
 

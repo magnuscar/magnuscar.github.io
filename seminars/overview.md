@@ -13,5 +13,5 @@ subtitle: To promote science, it is important to discuss and exchange ideas.
 
 
 [link MandB]: /seminars/methodsbeers/
-[link TtB]: https://www.bsse.ethz.ch/cevo/taming-the-beast.html
+[link TtB]: https://taming-the-beast.org/
 [link BEAST2]: http://www.beast2.org/
