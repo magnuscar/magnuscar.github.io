@@ -7,6 +7,9 @@ subtitle: Discover and find out more about all our published work.
 Please also visit Carsten's [google scholar page][link scholar] for metrics on our publications. We strongly support open access as well as transparency,  and publish our research open access whenever possible. If you cannot find any of the papers, code, or data, please [contact me][link contact].
 
 ## Journal Articles and Reviews
+### 2019
+ - Domingues P\*, Eletto D\*, Magnus C\*, Turkington HL, Schmutz S, Zagordi O, Lenk M, Huber M, Beer M, Stertz S, Hale BG. _Profiling host ANP32A splicing landscapes to predict influenza A virus polymerase adaptation._ Nature Communications 10. 3396(2019). [Paper](https://www.nature.com/articles/s41467-019-11388-2). [Twitter](https://twitter.com/UZH_Virology/status/1156140080031047681). [Shiny App](https://magnuscar.shinyapps.io/FluAdaptation/). [Analyses](https://github.com/magnuscar/FluAdaptation). 
+
 ### 2018
  - Bošková V, Stadler T\* and Magnus C\* (2018). _The influence of phylodynamic model specifications on parameter estimates of the Zika virus epidemic._ Virus Evolution. [Paper](https://academic.oup.com/ve/article/4/1/vex044/4829709). [Media coverage](https://www.sib.swiss/about-us/news/1141-predicting-the-spread-of-epidemics-it-s-what-s-inside-the-model-that-counts).
  - Reh L, Magnus C, Kadelka C, Kühnert D, Uhr T, Weber J, Morris L,  Moore PL, Trkola A (2018). _Phenotypic deficits in the HIV-1 Envelope are associated with the maturation of a V2-directed broadly neutralizing antibody lineage._ PLoS Pathogens 14(1): e1006825. [Paper](http://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006825).
